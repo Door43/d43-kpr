@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kpr:home|Door43 (kpr)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kpr|d43-kpr repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kpr/archive/master.zip|d43-kpr.zip]]
+
+**Recent Changes**
+{{changes>ns = kpr}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kpr|Ethnologue data]]
+
